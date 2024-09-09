@@ -1,1 +1,0 @@
-The current project is to create a basic website using HTML to display my knowledge of the nasic functions of HTML which will be setting up from DOCTYPE to using the <title></title> and using things such as headers and paragraphs to display everything properly as well as using links to recipes and images. 
